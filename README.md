@@ -1,8 +1,5 @@
 # Excel-Dashboard
-It is based on healthcare data
-
-I have created Dashboard using charts 
-
+I have created Dashboard using charts and cleaned data 
 
 # Bar chart
 
